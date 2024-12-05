@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I started my career as a Software Developer in 2020, since that, I've been studying about Java and Spring. In my recent jobs a had the opportunity to work with Node and more recently with .NET Core. One my goals for this year is to get the AWS Certificates.
+I started my career as a Software Developer in 2020, since that, I've been studying about Java (Spring). In my recent jobs a had the opportunity to work with Node and more recently with .NET Core. I'm also get a AWs certification on AWS Pratictioner.
+Now i'm learning about Angular and starting my journey in the Frontend environment.
 
-* 🌍  I'm based in Brazil
-* 🧠  I'm learning More about the spring framework and the new Java features. Besides that, I'm also learning more about infrastructure.
+* 🌍  I'm based on Brazil
 
 ### Skills
 
